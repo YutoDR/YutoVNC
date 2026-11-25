@@ -1,0 +1,22 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Build & Installer Artifacts
+build/
+dist/
+Output/
+*.exe
+*.msi
+
+# Database & Local App Data (SENSITIF - JANGAN DI-PUSH)
+*.db
+*.sqlite
+*.sqlite3
+.appdata/
+*.vnc
+*.log
